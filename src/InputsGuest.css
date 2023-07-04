@@ -1,0 +1,12 @@
+.btnInputGuest{
+    height: 4vh;
+    width: 2vw;
+    font-weight:bolder;
+    color: rgb(177, 177, 177);
+    border: solid 2px;
+    border-color: rgb(177, 177, 177);
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
